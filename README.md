@@ -26,9 +26,10 @@
   <ul>
     <li><ins><b>Rakuten | Software Engineer</b></ins> <i>(August' 2023 - Present)</i><br/>
     <b>Skillset:</b> Full Stack Development, Java, SpringBoot, Data Engineering, MySQL, Linux, Jenkins, Bit-Bucket<br/>
-    - Developed end to end RESTful APIs to boost sales from existing AdPlats application by working on billing adjustments. Also involved in bug fixes, performance optimization, and meeting business requirements.<br/>
-    - Key contributor in increasing JUnit code coverage.<br/>
-    - Optimized MySQL database queries and enhanced overall application performance.<br/>
+    - End-to-end feature development for Adplats applications and performance optimization covering basic needs.<br/>
+    - Leader - RUNA application feature development.<br/>
+    - Proficient in microservices, server migration, data pipelines, and feature development spanning from backend development to frontend development.<br/>
+    - Analytics batch optimization to manage impressions and clicks using Hadoop and Key contributor to increasing JUnit code coverage using Copilot.<br/>
     <li><ins><b>RejoiceHub LLP | Backend Developer Intern </b></ins> <i>(February' 2023 - July' 2023)</i><br/> 
       <b>Skillset:</b> JavaScript, TypeScript, NodeJS, NestJS, Micro Services, MongoDB, Git, GitHub, Postman and others. <br/>
     - Led project Jewellery-CRM, which aimed at developing software that stores data about the designer, design details, and seller, generates reports for the seller, and performs various operations according to the business requirements.<br/>
